@@ -1,0 +1,6 @@
+{
+  "name": "Motorsport Manager",
+  "description": "Motorsport racing team management simulation inspired by Motorsport Manager with live race strategy, telemetry pit wall, car development, and championship seasons.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
